@@ -1,0 +1,67 @@
+# depslib dependency file v1.0
+1447836261 source:c:\users\ifechukwu eji\documents\c programs\puzzle\main.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	"puzzle.h"
+
+1445519756 source:c:\users\ifechukwu eji\documents\c programs\puzzle\printcw.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"puzzle.h"
+
+1445522470 source:c:\users\ifechukwu eji\documents\c programs\puzzle\fileinteraction.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<time.h>
+	"puzzle.h"
+
+1445520353 c:\users\ifechukwu eji\documents\c programs\puzzle\puzzle.h
+
+1447869292 source:c:\users\d'litez\documents\c programs\puzzle\main.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	"puzzle.h"
+
+1445552754 c:\users\d'litez\documents\c programs\puzzle\puzzle.h
+
+1445552158 source:c:\users\d'litez\documents\c programs\puzzle\printcw.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"puzzle.h"
+
+1445554872 source:c:\users\d'litez\documents\c programs\puzzle\fileinteraction.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<time.h>
+	"puzzle.h"
+
+1447869292 source:c:\users\d'litez\documents\programs\c\console\puzzle\main.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	"puzzle.h"
+
+1445552754 c:\users\d'litez\documents\programs\c\console\puzzle\puzzle.h
+
+1445552158 source:c:\users\d'litez\documents\programs\c\console\puzzle\printcw.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"puzzle.h"
+
+1445554872 source:c:\users\d'litez\documents\programs\c\console\puzzle\fileinteraction.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<time.h>
+	"puzzle.h"
+

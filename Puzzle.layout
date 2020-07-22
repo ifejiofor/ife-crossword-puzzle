@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="fileInteraction.c" open="1" top="0" tabpos="3">
+		<Cursor position="6431" topLine="226" />
+	</File>
+	<File name="main.c" open="1" top="0" tabpos="1">
+		<Cursor position="6754" topLine="171" />
+	</File>
+	<File name="printCW.c" open="1" top="1" tabpos="2">
+		<Cursor position="2041" topLine="46" />
+	</File>
+</CodeBlocks_layout_file>

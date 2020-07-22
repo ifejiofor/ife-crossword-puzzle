@@ -1,0 +1,10 @@
+BASKET		Cannot hold water
+BROTHER		The son of one's mother
+FOOD		Something that is essential for life
+ROSE		A flower
+COMPUTER	An electronic device
+BEE		A buzy insect
+PIG		An Animal regarded as dirty
+APPLE		A fruit as well as the name of a computer company
+TERRESTIAL	Pertaining to the Earth
+NIGERIA		A nation with over 150 million people and three major ethnic groups
